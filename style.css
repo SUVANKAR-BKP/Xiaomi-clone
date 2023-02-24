@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    padding: 0.9vw;
+    align-content: center;
+    background-color: burlywood;
+}
+
+.navigation>img{
+    height: 28px;
+    width: 28px;
+    align-self: center;
+}
+.navigation>a{
+    font-size: 1.2vw;
+    color: black;
+    text-decoration: none;
+}
+#speace{
+    width: 30vw;
+}
+
+.material-icons-outlined{
+    font-family: 'Material Icons';
+    font-size: 2vw;
+}
